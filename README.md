@@ -15,16 +15,13 @@
 
 ### 🍯 Technical Stack
 
-- 💰 Blockchain 𒑰 DeFi 𒑰 NFT 𒑰 Solidity 𒑰 Web3.js 𒑰 Ethers.js
-- ⚡ JavaScript 𒑰 Typescript 𒑰 Mantine 𒑰 Chakra UI 𒑰 Material UI 𒑰 Tailwind CSS
+- 💰 Blockchain 𒑰 DeFi 𒑰 NFT 𒑰 Solidity 𒑰 Thirdweb
+- ⚡ JavaScript 𒑰 Typescript
 - 🥇 React 𒑰 Fuse React 𒑰 Next.js
 - 🎒 NodeJS 𒑰 Express 𒑰 NestJS 𒑰 Socket.IO
 - 🏹 Chrome extension with React & Redux
-- 🌎 AWS 𒑰 Firebase 𒑰 MongoDB 𒑰 PostgreSQL 𒑰 Git 𒑰 Slack 𒑰 Jira
+- 🌎 AWS
 - 🚩 Docker 𒑰 Jenkins 𒑰 Jetbrain Tools 𒑰 CI/CD 𒑰 Test-Driven Development(TDD)
 
-### 🌱 What I'm boosting
-- 🛠 AWS Cloud Serivces 𒑰 Serverless
-- 🎩 DevOps
 
 `Reach out to me to talk about possible opportunities, mentorship, collaborations and everything in between!`
