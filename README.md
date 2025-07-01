@@ -24,4 +24,4 @@
 - 🚩 Docker 𒑰 Jenkins 𒑰 Jetbrain Tools 𒑰 CI/CD 𒑰 Test-Driven Development(TDD)
 
 
-`Reach out to me to talk about possible opportunities, mentorship, collaborations and everything in between! Telegram: https://t.me/michaelm2sser`
+Reach out to me to talk about possible opportunities, mentorship, collaborations and everything in between! Telegram: (https://t.me/michaelm2sser)[https://t.me/michaelm2sser]
